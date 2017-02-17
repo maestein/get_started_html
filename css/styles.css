@@ -18,7 +18,7 @@ body {
   line-height: 1.7;
   color: #777777;
   color: #7f7f7f;
-  background:#87CEEB;
+  background:#F0F8FF;
   height: 100%;
   position: relative;
 }
@@ -62,7 +62,7 @@ nav {
 article {
   border: 1px;
   border-style: solid;
-  border-color: blue;
+  border-color: black;
   padding: 10pt;
   margin: 10pt;
 }
